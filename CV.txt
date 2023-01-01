@@ -5,7 +5,7 @@ Fecha de nacimiento: 15 de Julio de 1993
 Lugar de nacimiento: Jamay, Jalisco
 Domicilio: J. Cruz Hernandez #19A Jamay, Jal. Cel. 3921107067
 Correo personal:  ing.com.jgod1993@gmail.com
-correo trabajo: guadalupe.ortega@cuci.udg.mx
+correo trabajo: guadalupe.ortega@academicos.udg.mx
 
 +--------------------------------------------------------------------+
 E S T U D I O S
@@ -25,3 +25,16 @@ Splunk
 Automation Anywhere
 Notion 
 Git y Github
+
++---------------------------------------------------------------------+
+E X P E R I E N C I A   L A B O R A L 
+-	Maestro de computación de Cursos de Verano en el DIF Ocotlán 2014.
+-	Desarrollo de aplicación para una tienda de ropa programado en java (Mayo 2015 – Junio 2015). 
+-	Practicante Profesional en CFE División Jalisco Zona Ciénega – Departamento de T.I. (Julio 2015 – Octubre 2015).
+-	Desarrollo de aplicación para CFE División Jalisco, Zona Ciénega programado en java. 
+-	Técnico Académico Asistente C adscrito al Departamento de Ciencias Básicas del C. U. De la Ciénega de la U. De G. Ubicado en Ocotlán Jalisco, del 16 de Noviembre del 2015 a la fecha.
+-	Desarrollo de aplicación para negocio de sillas y mesas programado en java (Junio 2016 - Julio 2016).
+-	Profesor de Asignatura (Tecnología) del Colegio Colon de Ocotlán en los grados 1ro y 2do de Secundaria del 03 de Noviembre del 2016 al 18 de Enero del 2017.
+-	Profesor de Asignatura A en el Departamento de Productividad y Desarrollo Tecnológico del C.U. Del Norte con sede en Flex LTD Norte, en Zapopan Jalisco, del 16 de Enero del 2017 a la fecha.
+-	Profesor en el programa de Talleres de habilidades cognitivas con orientación Lógico Matemático viendo temas de algebra, calculo diferencial y calculo Integral para las carreras de QFB, Recursos Humanos, Ingeniería en computación e Ingeniería en Informática del C.U. de la Ciénega del 25 Enero del 2017 a la fecha.
+-	Profesor de Asignatura A en el área de redes de computadoras en el Centro Universitario de la Ciénega de Enero del 2020 a la fecha.
