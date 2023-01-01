@@ -1,0 +1,27 @@
+I N F O    P E R S O N A L
+Nombre: José Guadalupe Ortega Delgado
+Edad: 29 años
+Fecha de nacimiento: 15 de Julio de 1993
+Lugar de nacimiento: Jamay, Jalisco
+Domicilio: J. Cruz Hernandez #19A Jamay, Jal. Cel. 3921107067
+Correo personal:  ing.com.jgod1993@gmail.com
+correo trabajo: guadalupe.ortega@cuci.udg.mx
+
++--------------------------------------------------------------------+
+E S T U D I O S
+Preparatoria: Escuela Preparatoria Regional de Jamay de la U. de G. (Agosto 2008- Junio 2011).
+Profesional: INGENIERO EN COMPUTACIÓN egresado del Centro Universitario de la Ciénega de la Universidad de Guadalajara (Agosto 2011 – Diciembre 2015). CÉDULA ESTATAL – PEJ 221177 CÉDULA FEDERAL - 9954574
+Maestría: Maestro en Educación con Intervención en la práctica educativa en el Centro de Estudios de Posgrados del estado de Jalisco de la secretaría de Educación Pública (Agosto 2016 – Febrero 2019) - CÉDULA FEDERAL - 12661820
+
++--------------------------------------------------------------------+
+C O N O C I M I E N T O S   T E C N O L O G I C O S 
+SO Linux: Debian, Deepin, Ubuntu, Mint, Elementary OS
+SO Windows: XP, Server 2012, 7, 8, 8.1, 10
+Lenguajes de programación: Java, Python
+Redes: CISCO, Servidor Samba, Servidor DHCP, Tecnología Inalámbrica, Cableado estructurado, Firewall, Protocolos: STP, VTP, RIP, OSPF, EIGRP, BGP, PAP, PPP, Ruteo Inter Vlan, Dot1Q, VLAN, Ruteo estatico, Ruteo predeterminado, ACL, NAT.
+Maquinas Virtuales: Virtual Box.
+Service Now citi 
+Splunk
+Automation Anywhere
+Notion 
+Git y Github
